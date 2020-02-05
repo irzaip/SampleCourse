@@ -12,3 +12,5 @@ Belajar DART
 (https://www.youtube.com/watch?v=5ahm6BRGUyI "Inheritance dalam Dart")
 (https://www.youtube.com/watch?v=nCNcvDWJe9o "Abstract class dalam Dart")
 (https://www.youtube.com/watch?v=RrYQp5uTlo4 "Mixin")
+
+###### END
