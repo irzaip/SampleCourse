@@ -2,7 +2,7 @@
 
 This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
 
-###### Month 1
+# Month 1
 
 ## Week 1 Linear Algebra
 (https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab "Linear Algebra")
@@ -14,7 +14,7 @@ https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
 https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 
-###### Month 2
+# Month 2
 
 ## Week 1 
 #### Learn python for data science
@@ -24,19 +24,19 @@ https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
 #### Intro to Tensorflow
 (https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV " ")
 
-###### Week 2 
+## Week 2 
 Intro to ML (Udacity)
 https://eu.udacity.com/course/intro-to-machine-learning--ud120
 
-###### Week 3-4
+## Week 3-4
 ML Project Ideas
 https://github.com/NirantK/awesome-project-ideas
 
-###### Month 3 (Deep Learning)
+# Month 3 (Deep Learning)
 
 ## Week 1 
 Intro to Deep Learning
-https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
+(https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3 "Deep Learning")
 
 ## Week 2 
 Deep Learning by Fast.AI
