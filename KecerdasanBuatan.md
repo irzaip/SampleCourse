@@ -4,7 +4,7 @@ Materi ini di dedikasikan untuk group #INDOSOAI yang telah menemani saya belajar
 
 Daftar groupnya kalau belum ikutan ;-)
 
-###### Minggu 1 - Penggunaan Python
+# Minggu 1 - Penggunaan Python
 
 Awalnya dari keinginan berbagi, semoga dapat bermanfaat di kehidupan kalian
 
@@ -12,6 +12,7 @@ Awalnya dari keinginan berbagi, semoga dapat bermanfaat di kehidupan kalian
 (https://www.youtube.com/watch?v=1ZgPx21vSI4 “Perbedaan AI, ML, DL”)
 (https://www.youtube.com/watch?v=OroneBGTIUw “Pengantar Mengapa Python?”)
 (https://www.youtube.com/watch?v=doFfODoMO3A “Perbedaan Python 2 dan Python 3”)
+## TOOLS yang akan kita pakai
 (https://www.youtube.com/watch?v=txWUNqYf6yQ “Menggunakan Colab untuk pertama kali”)
 (https://www.youtube.com/watch?v=L2EqeJDKyXg “Operasi pada python”)
 (https://www.youtube.com/watch?v=VIH435v1cFo “Operator lanjutan python”)
@@ -29,7 +30,7 @@ Awalnya dari keinginan berbagi, semoga dapat bermanfaat di kehidupan kalian
 (https://www.youtube.com/watch?v=M3ok0CRgDE0 “Bagaimana cara belajar Kecerdasan Buatan?”)
 
 
-###### Minggu 2 - Python Data Science
+# Minggu 2 - Python Data Science
 
 Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di pengguna python. Setelah mahir menggunakan ini sebenarnya kamu sudah menjadi *data scientist pemula* ada baiknya kamu mulai cari topik-topik yang mempunyai data, supaya kamu bisa belajar lebih banyak.
 
@@ -42,7 +43,7 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 
 
 
-###### Minggu 3 - Machine Learning dengan Python
+# Minggu 3 - Machine Learning dengan Python
 
 (https://www.youtube.com/watch?v=zDiAuO3S1EI “Supervised vs Unsupervised Learning”)
 (https://www.youtube.com/watch?v=sLqcvX_M7s0 “Proses membuat Model Machine Learning”)
@@ -54,7 +55,7 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 (https://www.youtube.com/watch?v=jtZqbSD9tSE “Apa itu Naive Bayes Classifier”)
 
 
-###### Minggu 4 - Ensemble Machine Learning
+# Minggu 4 - Ensemble Machine Learning
 
 
 (https://www.youtube.com/watch?v=tkV6jmQkSNM “Konsep Ensemble Machine Learning”)
@@ -67,7 +68,7 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 (https://www.youtube.com/watch?v=fmCwNXpzHtI “Teknik Stacking”)
 
 
-###### Minggu 5 - Algoritma Unsupervised Learning
+# Minggu 5 - Algoritma Unsupervised Learning
 
 (https://www.youtube.com/watch?v=HR6L8ToYNsk “Apa itu Unsupervised Learning”)
 (https://www.youtube.com/watch?v=1jzvGdIB9bo “Algoritma K-Means Clustering”)
@@ -80,13 +81,13 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 (https://www.youtube.com/watch?v=iPzdS4cfh5I “Pengenalan WORD2VEC - Word Embedding”)
 (https://www.youtube.com/watch?v=Qt57M2gtQ-U “Bermain dengan WORD2VEC”)
 
-###### Minggu 6 - Sistem Rekomendasi
+# Minggu 6 - Sistem Rekomendasi
 
 (https://www.youtube.com/watch?v=j9hVpCEyeps “Pengenalan Recommender System”)
 (https://www.youtube.com/watch?v=eU5P2vU_sHs “Sistem rekomendasi menggunakan Apriori”)
 
 
-###### Minggu 7 - Jaringan Syaraf Tiruan / Neural Network
+# Minggu 7 - Jaringan Syaraf Tiruan / Neural Network
 
 (https://www.youtube.com/watch?v=mFljVO5L_d0 “Dasar dan Konsep Deep Learning”)
 (https://www.youtube.com/watch?v=yy0BZuj-KMM “Konsep Jaringan Syaraf Tiruan”)
@@ -100,12 +101,12 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 (https://www.youtube.com/watch?v=eV7G5AIZx-A “Cara SAVE model scikit-learn dan Keras Tensorflow”)
 
 
-###### Minggu 8 - Reinforcement Learning
+# Minggu 8 - Reinforcement Learning
 
 (https://www.youtube.com/watch?v=dhFNPQwCEa4 “Apa itu Reinforcement Learning?”)
 
 
-###### Minggu 9 - Deep Learning / Jaringan Syaraf Convolutional
+# Minggu 9 - Deep Learning / Jaringan Syaraf Convolutional
 
 (https://www.youtube.com/watch?v=Whb1_It4P2k “Teknik Convolutional Neural network”)
 (https://www.youtube.com/watch?v=HbP6P2NNF6A “Pengenalan Gambar dengan Dataset CIFAR10”)
@@ -116,11 +117,11 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 (https://www.youtube.com/watch?v=Rxx8mFE0Ff8 “Cara mengatur Dataset gambar milik sendiri untuk loading yang mudah”)
 
 
-###### Minggu 10 - Logic Programming
+# Minggu 10 - Logic Programming
 (https://www.youtube.com/watch?v=PllY6IVh_ds “Apa itu Logic Programming? pyDatalog dgn contoh”)
 
 
-###### Minggu 11 - Machine Learning dalam Aplikasi / praktek
+# Minggu 11 - Machine Learning dalam Aplikasi / praktek
 
 (https://www.youtube.com/watch?v=KZRWFxeNSsI “Machine learning di bidang keuangan MMwML”)
 (https://www.youtube.com/watch?v=uFbeELcWXuc “Analisa Saham dengan Pandas dan scikit-learn - bagian 1”)
@@ -128,7 +129,7 @@ Minggu ini kita akan belajar menggunakan tools-tools yang sangat populer di peng
 (https://www.youtube.com/watch?v=RYhwUdrzq7g “Konversi model prediksi saham ke Modul Python”)
 (https://www.youtube.com/watch?v=8pWr60S5GB0 “Visualisasi web prediksi saham menggunakan Python dan Dash”)
 
-###### Minggu 12 - YOLO V3 dengan COLAB
+# Minggu 12 - YOLO V3 dengan COLAB
 
 (https://www.youtube.com/watch?v=AVFvXj-eEpw “Awal mula ide startUP”)
 (https://www.youtube.com/watch?v=m-xDPG54o6Y “Ngabuburit Coding - Persiapan Dataset augmentasi YOLO v3”)
