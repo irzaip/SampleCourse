@@ -35,7 +35,7 @@
 (https://www.youtube.com/watch?v=7CFAEXymRvM&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=29 "Menampilkan QR Code")
 (https://www.youtube.com/watch?v=893EKjEVJng&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=30 "Button Belah Ketupat Warna Warni-Transform")
 
-#SERI 31-40
+# SERI 31-40
 (https://www.youtube.com/watch?v=NaVyyUOp3SQ&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=31 "Gradient Opacity / Transparansi Bergradasi (ShaderMask)")
 (https://www.youtube.com/watch?v=14kFAYD0PfY&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=32 "Memainkan Musik/Sound")
 (https://www.youtube.com/watch?v=8hSHp8QuYUQ&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=33 "Membaca (scan) QR Code")
@@ -47,7 +47,7 @@
 (https://www.youtube.com/watch?v=39EqD-_iUdI&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=39 "Switch & AnimatedSwitcher Widget")
 (https://www.youtube.com/watch?v=VQGNLqTpoX8&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=40 "AnimatedPadding Widget")
 
-#SERI 41-50
+# SERI 41-50
 (https://www.youtube.com/watch?v=U9Mg-Ce1yv0&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=41 "Shared Preferences & Dpuble Question Mark Operator (??)")
 (https://www.youtube.com/watch?v=NNKKpECZUnw&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=42 "Provider State Management)
 (https://www.youtube.com/watch?v=nlvD964GqWI&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=43 "Provider State Management (Multi Provider)")
