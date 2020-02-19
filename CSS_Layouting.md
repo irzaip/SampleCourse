@@ -1,0 +1,17 @@
+# CSS Layouting
+(https://www.youtube.com/watch?v=Phn2eN6j0pg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=2&t=0s "0 Intro")
+(https://www.youtube.com/watch?v=VPaIdiPvWQM&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=3&t=0s "1 Display")
+(https://www.youtube.com/watch?v=VkUSH3SIH0g&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=4&t=0s "2 Dimensi & Overflow")
+(https://www.youtube.com/watch?v=skb-qe5nvxQ&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=5&t=0s "3 Box Model : Konsep")
+(https://www.youtube.com/watch?v=Ld_TKKhsL9M&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=6&t=0s "4 Box Model : Margin")
+(https://www.youtube.com/watch?v=s2BB3v3j5VA&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=7&t=0s "5 Box Model : Padding, Border & Box Sizing")
+(https://www.youtube.com/watch?v=jM6-cKxEWyM&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=8&t=0s "6 Box Model : CSS Reset")
+(https://www.youtube.com/watch?v=LZhsmkbrY_g&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=9&t=0s "7 Box Model : Membuat Website Sederhana")
+(https://www.youtube.com/watch?v=yW7bpjrq7o4&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=10&t=0s "8 Float")
+(https://www.youtube.com/watch?v=6gZ9WFwxRNY&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=11&t=0s "9 Clear")
+(https://www.youtube.com/watch?v=cis0O2GgUVI&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=12&t=0s "10 Float : Membuat Website Sederhana (Part 2)")
+(https://www.youtube.com/watch?v=qCPrNyW3XFg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=13&t=0s "11 Position : Static & Relative")
+(https://www.youtube.com/watch?v=ENooU6dnzoQ&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=14&t=0s "12 Position : Absolute & Fixed")
+(https://www.youtube.com/watch?v=mvLhlt_JPdI&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=15&t=0s "13 : z-index & penggunaan lain dari position")
+(https://www.youtube.com/watch?v=uS4MoynBCxc&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr&index=16&t=0s "14 : Latihan Position")
+# END
