@@ -1,0 +1,7 @@
+# MATLAB - Algoritma Genetika
+## Kelas Terbuka
+### teknologi, pemrograman
+#### Mari belajar algoritma genetika dengan langkah-langkah detail. Kita juga akan belajar mengimplementasikan algoritma genetika dengan menggunakan MATLAB.
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/MATLAB_-_Algoritma_Genetika.md)
