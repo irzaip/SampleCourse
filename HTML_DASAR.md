@@ -1,0 +1,15 @@
+# HTML DASAR
+(https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=2&t=0s "Pendahuluan HTML (1/13)")
+(https://www.youtube.com/watch?v=1NicaVOCXHA&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=3&t=0s "Hello World! (2/13)")
+(https://www.youtube.com/watch?v=3sLSi9L5nWE&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=4&t=0s "Code Editor (3/13)")
+(https://www.youtube.com/watch?v=cUWBYzA6M-8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=5&t=0s "Tag (4/13)")
+(https://www.youtube.com/watch?v=Dl_bIYBc9gM&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=6&t=0s "Paragraf (5/13)")
+(https://www.youtube.com/watch?v=SMetRBdIh-8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=7&t=0s "Heading (6/13)")
+(https://www.youtube.com/watch?v=gLHEoeupIZs&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=8&t=0s "List (7/13)")
+(https://www.youtube.com/watch?v=QIlBOI-hTuA&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=9&t=0s "Hyperlink (8/13)")
+(https://www.youtube.com/watch?v=yb_emYhY3Pc&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=10&t=0s "Image (9/13)")
+(https://www.youtube.com/watch?v=7-QNafrXigs&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=11&t=0s "Table (10/13)")
+(https://www.youtube.com/watch?v=qs8G2XWf7Yk&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=12&t=0s "Table Merging (11/13)")
+(https://www.youtube.com/watch?v=LQf_Jj7jbCI&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=13&t=0s "Form (12/13)")
+(https://www.youtube.com/watch?v=_CNkLKU-LoE&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F&index=14&t=0s "Form (lanjutan) (13/13)")
+# END
