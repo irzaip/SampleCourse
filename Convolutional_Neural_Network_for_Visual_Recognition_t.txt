@@ -1,0 +1,8 @@
+# Convolutional Neural Network for Visual Recognition
+## Standford University
+### teknologi, pemrograman
+#### Belajar CNN dari materi standford
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Convolutional_Neural_Network_for_Visual_Recognition.md)
+

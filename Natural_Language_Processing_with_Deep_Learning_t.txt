@@ -1,0 +1,8 @@
+# Natural Language Processing with Deep Learning
+## Standford University
+### teknologi, pemrograman
+#### Belajar NLP dari program standford
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Natural_Language_Processing_with_Deep_Learning.md)
+
