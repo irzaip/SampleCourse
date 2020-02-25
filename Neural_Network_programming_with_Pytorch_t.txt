@@ -1,0 +1,8 @@
+# Neural Network programming with Pytorch
+## DeepLizard
+### teknologi, AI
+#### PyTorch programming for neural network
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Neural_Network_programming_with_Pytorch.md)
+

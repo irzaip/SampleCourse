@@ -1,0 +1,8 @@
+# Convolutional Neural Network
+## Andrew Ng
+### teknologi, AI
+#### Full course of Convolutional Neural Network
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Convolutional_Neural_Network.md)
+

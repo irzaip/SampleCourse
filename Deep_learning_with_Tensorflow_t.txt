@@ -1,0 +1,8 @@
+# Deep learning with Tensorflow
+## Edureka
+### teknologi, AI
+#### Deep learning for tensorflow
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Deep_learning_with_Tensorflow.md)
+

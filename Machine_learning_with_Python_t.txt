@@ -1,0 +1,8 @@
+# Machine learning with Python
+## sentdex
+### teknologi, AI
+#### Code in python for machine learning
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Machine_learning_with_Python.md)
+
